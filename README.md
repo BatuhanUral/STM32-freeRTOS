@@ -7,7 +7,7 @@ Bu örnekler freeRTOS'u öğretmek üzere basit anlaşılır kodlar içermektedi
 Ana amacı bir Youtube eğitim serisinde kullanımıdır.
 
 ## 📺 Video Anlatımlar
-[![YouTube](Docs/Images/Youtube_logo.png)](https://www.youtube.com/@eng.BatuhanUral)
+[![YouTube](Docs/Images/ytb.png)](https://www.youtube.com/@eng.BatuhanUral)
 
 ## İçerik
 - Task kullanımı (Notification , Deletion)
