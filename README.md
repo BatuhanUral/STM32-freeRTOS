@@ -13,4 +13,4 @@ Bu repoda STM32 üzerinde FreeRTOS kullanarak yaptığım örnekler yer almaktad
 
 ## freeRTOS Yol Haritası
 
-![RoadMap](Docs/images/roadmapqueue.png)
+![RoadMap](Docs/Images/roadmapqueue.png)
